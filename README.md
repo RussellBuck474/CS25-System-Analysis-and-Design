@@ -1,2 +1,14 @@
 # CS25-System-Analysis-and-Design
 A place to share my projects for System Analysis and Design
+
+
+🧭 Project Summary
+The DriverPass project centered on designing a system for a small business client who wanted to improve student success rates on driving exams. The client needed an online platform where students could purchase packages, schedule driving lessons, access practice tests, and track progress. The system required secure authentication, role‑based access, instructor scheduling, and administrative oversight. The work spanned requirements elicitation, business analysis, and full system design, including UML diagrams and architectural decisions.
+⭐ What I Did Well
+I excelled at translating ambiguous stakeholder statements into structured, testable requirements. The business requirements document clearly separated functional and nonfunctional needs, mapped them to user roles, and provided traceability that supported later design decisions. In the system design document, I articulated the architecture using consistent UML notation and ensured that each diagram aligned with the narrative description. This coherence made the design easier to understand for both technical and nontechnical audiences.
+🔧 What I Would Revise
+If I were to revise one part of the work, I would refine the sequence diagrams to better illustrate concurrency and system boundaries. Some interactions could be clarified by explicitly modeling asynchronous operations (e.g., scheduling conflicts, instructor availability checks). Improving these diagrams would strengthen the alignment between the conceptual workflow and the actual system behavior.
+👥 Interpreting and Implementing User Needs
+I interpreted user needs by grounding every requirement in the client’s stated goals: improving pass rates, simplifying scheduling, and ensuring secure access. I used interviews, scenario analysis, and role‑based workflows to translate these needs into system features. Considering user needs is essential because it ensures the system solves the right problems, reduces rework, and creates a product that users can adopt without friction. In this project, user‑centered thinking directly shaped the interface design, access controls, and scheduling logic.
+🧩 My Approach to Software Design
+My design approach combines requirements analysis, iterative modeling, and evidence‑based architectural decisions. I begin by clarifying user goals, then create diagrams that progressively refine the system—from context diagrams to class and sequence diagrams. In future projects, I plan to continue using strategies such as domain modeling, user stories, and architectural patterns (e.g., layered architecture) to ensure traceability from requirements to implementation. I also intend to incorporate more peer review and validation loops to strengthen design accuracy and usability.
